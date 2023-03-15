@@ -139,7 +139,7 @@ main p {
 
 main img {
     width: 100%;
-    margin: 30px;
+    margin: auto;
 }
 
 main img.pequena {
