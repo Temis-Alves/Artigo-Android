@@ -27,6 +27,7 @@
 body {
     background-color:#EAE6E5 ;
     font-family: var(--font-padrao);
+    word-spacing: 5px
 }
 
 a.externo {
@@ -82,6 +83,7 @@ header > p {
     margin: auto;
 }
 
+
 nav {
     background-color: #003459;
     text-align: center;
@@ -130,8 +132,13 @@ main h2 {
     font-family: var(--font-Android);
 }
 
+main p {
+    margin: 5px;
+}
+
 main img {
     width: 100%;
+    margin: 30px;
 }
 
 main img.pequena {
