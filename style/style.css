@@ -84,6 +84,11 @@ header > p {
     margin: auto;
 }
 
+p {
+    margin: 15px 0px;
+
+}
+
 
 nav {
     background-color: #003459;
