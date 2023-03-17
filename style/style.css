@@ -84,11 +84,6 @@ header > p {
     margin: auto;
 }
 
-p {
-    margin: 15px 0px;
-
-}
-
 
 nav {
     background-color: #003459;
@@ -139,7 +134,12 @@ main h2 {
 }
 
 main p {
-    margin: 5px;
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 1em;
+    line-height: 2em;
+
 }
 
 main img {
